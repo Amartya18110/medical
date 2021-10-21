@@ -1,0 +1,46 @@
+.loginCardMain{
+    background-color: #fff;
+    max-width: 700px;
+    height: 450px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.loginImage img{
+    max-width: 350px;
+    border-radius: 5px;
+    /* height: 450px; */
+}
+.loginCard{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 70px;
+}
+.loginlogo{
+    margin-left: 70px;
+}
+.loginDetailsForm img{
+    max-width: 70px;
+    height: 70px;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.loginImage{
+    flex: 1;
+    margin-top: 100px;
+    /* display: flex; */
+    /* justify-content: center; */
+}
+.loginDetailsForm{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    margin-top: 70px;
+}
+.loginTextfield{
+    margin-bottom: 20px;
+}

@@ -1,0 +1,14 @@
+.know_more {
+  width: auto;
+}
+.know_more_rapper {
+  display: flex;
+}
+.know_more_info {
+  flex: 1;
+}
+.know_more_card {
+  /* background-image: ; */
+  padding: 20px;
+  flex: 1;
+}

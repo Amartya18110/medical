@@ -1,0 +1,68 @@
+.footerdiv {
+  background-color: #6d95af;
+  color: cornsilk;
+}
+.footerMain {
+  display: flex;
+  flex-direction: row;
+  padding: 30px 0px 50px 150px;
+}
+.footerMain p {
+  font-size: 18px;
+}
+.footer_con {
+  flex: 1;
+}
+.footer_con h3 {
+  padding-bottom: 10px;
+}
+.footer_soci {
+  flex: 1;
+}
+.footer_soci h3 {
+  padding-bottom: 10px;
+}
+.footer_team {
+  flex: 1;
+}
+.emailDiv {
+  display: flex;
+  padding-bottom: 7px;
+}
+.phoneDiv {
+  display: flex;
+}
+.facebookIcon {
+  display: flex;
+  padding-bottom: 7px;
+}
+.facebookIcon p a {
+  text-decoration: none;
+  color: antiquewhite;
+}
+
+.emailDiv p,
+.phoneDiv p,
+.facebookIcon p {
+  padding-left: 8px;
+}
+
+.copyIcon {
+  padding: 15px;
+  border-top: 1px solid rgb(73, 66, 66);
+  display: flex;
+  justify-content: center;
+}
+
+.copyIcon span {
+  margin-top: 1px;
+}
+.copyIcon p {
+  padding-left: 2px;
+}
+.footer_team h3 {
+  padding-bottom: 10px;
+}
+.footer_team p {
+  padding-bottom: 7px;
+}

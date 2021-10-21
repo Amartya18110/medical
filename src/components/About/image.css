@@ -1,0 +1,18 @@
+.bgimg2 {
+  position: absolute;
+  right: 40px;
+  z-index: -1;
+  top: 540px;
+  max-width: 380px;
+}
+.bgimg1 {
+  position: absolute;
+  left: 0;
+  z-index: -1;
+  top: 70px;
+  max-width: 340px;
+}
+.aboutCard3 {
+  display: flex;
+  justify-content: center;
+}
